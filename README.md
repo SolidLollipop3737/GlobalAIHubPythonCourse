@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 22.02.2000  
+**Course Date:** 08.03.2021  
 **Name:** Onur  
 **Surname:** Sever  
 **Email:** redkulus26@hotmail.com  
